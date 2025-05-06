@@ -12,6 +12,6 @@
 <p>Para encerrar o programa, digite o número 7.</p>
 
 <h4>Após encerrar</h4>
-<p>Após o encerrarmento do programa, serão criados dois arquivos json:</p>
+<p>Após o encerrarmento do programa serão criados dois arquivos json:</p>
 <p>exchange_rate.json possui os valores de conversão usados pelo programas, os quais foram obtidos de exchangerate-api.com.</p>
 <p>ConversionHistory.json possui um histórico das conversões realizadas durante a execução do programa.</p>
